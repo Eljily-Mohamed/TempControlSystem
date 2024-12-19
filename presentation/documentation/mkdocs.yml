@@ -1,0 +1,10 @@
+site_name: B-1
+nav:
+  - Introduction: index.md
+  - Objectifs: objectifs.md
+  - Simulation: Simulation.md
+  - STM32: STM32.md
+  - CAO: CAO.md
+  - IHM: IHM.md
+  - Test: test.md
+  - Conclusion: conclusion.md
